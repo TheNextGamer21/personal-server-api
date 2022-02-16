@@ -1,0 +1,19 @@
+{
+  "name": "personal-server-api",
+  "version": "1.0.0",
+  "description": "API for communicating with my NAS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNextGamer21/personal-server-api.git"
+  },
+  "author": "TheNextGamer21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNextGamer21/personal-server-api/issues"
+  },
+  "homepage": "https://github.com/TheNextGamer21/personal-server-api#readme"
+}
