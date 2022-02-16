@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheNextGamer21/personal-server-api/issues"
   },
-  "homepage": "https://github.com/TheNextGamer21/personal-server-api#readme"
+  "homepage": "https://github.com/TheNextGamer21/personal-server-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
